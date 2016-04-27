@@ -511,7 +511,10 @@ html
   height: 98px;
 }
 
-
+.padding-top
+{
+  padding-top: 50px !important;
+}
 
 .tel
 {
