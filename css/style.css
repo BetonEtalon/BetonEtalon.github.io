@@ -10,6 +10,12 @@ html
   min-height: 100%;
 }
 
+
+.mail-link
+{
+  color: dodgerblue !important;
+}
+
 .mbr-embedded-video
 {
   position: relative;
