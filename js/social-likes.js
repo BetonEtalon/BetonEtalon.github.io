@@ -1,17 +1,3 @@
-/**
- * Social Likes
- * http://sapegin.github.com/social-likes
- *
- * Sharing buttons for Russian and worldwide social networks.
- *
- * @requires jQuery
- * @author Artem Sapegin
- * @copyright 2014 Artem Sapegin (sapegin.me)
- * @license MIT
- */
-
-/*global define:false, socialLikesButtons:false */
-
 (function(factory) {  // Try to register as an anonymous AMD module
 	if (typeof define === 'function' && define.amd) {
 		define(['jquery'], factory);
