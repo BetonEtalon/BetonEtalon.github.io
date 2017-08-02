@@ -98,13 +98,13 @@
 			popupHeight: 336
 		},
 		plusone: {
-			counterUrl: protocol + '//share.yandex.ru/gpp.xml?url={url}&callback=?',
-			convertNumber: function(number) {
-				return parseInt(number.replace(/\D/g, ''), 10);
-			},
-			popupUrl: 'https://plus.google.com/share?url={url}',
-			popupWidth: 500,
-			popupHeight: 550
+			//counterUrl: protocol + '//share.yandex.ru/gpp.xml?url={url}&callback=?',
+			//convertNumber: function(number) {
+			//	return parseInt(number.replace(/\D/g, ''), 10);
+			//},
+			//popupUrl: 'https://plus.google.com/share?url={url}',
+			//popupWidth: 500,
+			//popupHeight: 550
 		},
 		pinterest: {
 			counterUrl: protocol + '//api.pinterest.com/v1/urls/count.json?url={url}&callback=?',
